@@ -28,3 +28,14 @@ app.use(function (err, req, res, next) {
 })
 
 export { app }
+
+
+
+
+
+
+// cloudinary.config({ 
+//   cloud_name: 'itsasecret', 
+//   api_key: '945553475773197', 
+//   api_secret: 'KCZhzaLyU2N9qlQegZaj1O22JPo' 
+// });
